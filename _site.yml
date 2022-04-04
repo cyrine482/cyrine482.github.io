@@ -1,0 +1,10 @@
+name: "Personal Portfolio"  
+author: "Cyrine"  
+output_dir: "~/webpage/cyrine482.github.io" 
+output:  
+  html_document:  
+    self_contained: no  
+    theme: flatly  
+navbar:  
+  title: "Personal Portfolio" 
+
