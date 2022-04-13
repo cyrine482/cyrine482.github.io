@@ -1,27 +1,17 @@
-<<<<<<< HEAD
-name: "Curriculum vitae"  
-=======
-name: "Personal Portfolio"  
->>>>>>> origin/main
-author: "Cyrine"  
-output_dir: "~/webpage/cyrine482.github.io" 
+name: "personal-website"
+output_dir: "."
 output:  
   html_document:  
     self_contained: no  
-    theme: flatly  
-navbar:  
-<<<<<<< HEAD
-  title: "Cyrine Chenaoui" 
+    theme: null
+    css: bootstrap.min.css
+    toc: true #adds a table of contents
+navbar:
+  title: "Personal Website"
   left:
     - text: "Home"
       href: index.html
-  right: 
-    - icon: fa-envelope fa-lg
-      href: mailto:<Cyrine.Chenaoui@etu.sorbonne-universite.fr>
-    - icon: fa-github fa-lg
-      href: http://github.com/<cyrine482>/
-
-=======
-  title: "Personal Portfolio" 
->>>>>>> origin/main
-
+    - text: "Projects"
+      href: project.html
+    - text: "About Me"
+      href: about.html

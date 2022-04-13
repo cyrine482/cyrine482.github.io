@@ -1,9 +1,5 @@
 ---
-<<<<<<< HEAD
 title: "Curriculum vitae"
 ---
-This is Cyrin
-=======
-title: "Personal Portfolio"
----
->>>>>>> origin/main
+
+Coming soon. Stay tuned!
