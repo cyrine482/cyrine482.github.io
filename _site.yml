@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 name: "Curriculum vitae"  
+=======
+name: "Personal Portfolio"  
+>>>>>>> origin/main
 author: "Cyrine"  
 output_dir: "~/webpage/cyrine482.github.io" 
 output:  
@@ -6,6 +10,7 @@ output:
     self_contained: no  
     theme: flatly  
 navbar:  
+<<<<<<< HEAD
   title: "Cyrine Chenaoui" 
   left:
     - text: "Home"
@@ -16,4 +21,7 @@ navbar:
     - icon: fa-github fa-lg
       href: http://github.com/<cyrine482>/
 
+=======
+  title: "Personal Portfolio" 
+>>>>>>> origin/main
 
