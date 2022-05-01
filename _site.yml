@@ -1,0 +1,17 @@
+name: "personal-website"
+output_dir: "."
+output:  
+  html_document:  
+    self_contained: no  
+    theme: null
+    css: bootstrap.min.css
+    toc: true #adds a table of contents
+navbar:
+  title: "Personal Website"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Projects"
+      href: project.html
+    - text: "About Me"
+      href: about.html
