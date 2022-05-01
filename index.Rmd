@@ -1,5 +1,5 @@
 ---
-title: "Curriculum vitae"
+site: blogdown:::blogdown_site
 ---
 
-Coming soon. Stay tuned!
+<!-- This file is for blogdown only. Please do not edit it. -->
