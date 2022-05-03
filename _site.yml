@@ -1,17 +1,21 @@
-name: "test"
-author: "test"
-output_dir: "."
-output:  
-  html_document:  
-    css: bootstrap.css
-    toc: true #adds a table of contents
-    highlight: textmate
+name: "my-website"
 navbar:
-  title: "Personal Website"
-  left:
+  title: "Menu"
+  type: inverse
+  self_contained: False
+  right:
     - text: "Home"
+      icon: fa-home
       href: index.html
-    - text: "Projects"
-      href: project.html
-    - text: "About Me"
+    - text: "About"
+      icon: fa-info
       href: about.html
+    - text: "Curriculum Vitae"
+      icon: fa-solid fa-file
+      href: cv.html
+output:
+  html_document:
+    highlight: textmate
+    include:
+      image: "photo.jpg"
+    css: styles.css
