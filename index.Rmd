@@ -1,6 +1,6 @@
 ---
 title: "Cyrine Chenaoui"
-image: "tobi.jpg"
+image: "photo.jpg"
 links:
   - label: LinkedIn
     url: "https://linkedin.com/"
