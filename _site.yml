@@ -1,11 +1,11 @@
-name: "personal-website"
+name: "test"
+author: "test"
 output_dir: "."
 output:  
   html_document:  
-    self_contained: no  
-    theme: null
-    css: styles.css
+    css: bootstrap.css
     toc: true #adds a table of contents
+    highlight: textmate
 navbar:
   title: "Personal Website"
   left:
