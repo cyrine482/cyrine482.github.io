@@ -9,11 +9,12 @@ links:
   - label: Email
     url: "mailto:cyrine.chenaoui@gmail.com"
 output:
-  postcards::onofre
+  html_document:
+    includes:
+    in_header: gglanalytics.html
 ---
-
-##Bio 
-
+<img src="includes/photo.jpg" style="width:30%">
+###Bio 
 
 Cyrine Chenaoui is an agronomic engineer and a fisheries manager  based in Tunis,Tunisia. 
 

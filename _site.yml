@@ -1,3 +1,4 @@
+---
 name: "my-website"
 navbar:
   title: "Menu"
@@ -7,7 +8,7 @@ navbar:
     - text: "Home"
       icon: fa-home
       href: index.html
-    - text: "About"
+    - text: "Contact me"
       icon: fa-info
       href: about.html
     - text: "Curriculum Vitae"
@@ -15,9 +16,10 @@ navbar:
       href: cv.html
 output:
   html_document:
-    theme: cosmo
+    theme: journal
     highlight: textmate
     self_contained: TRUE
-    include:
-      image: "photo.jpg"
+    includes:
     css: styles.css
+    in_header: gglanalytics.html
+---
