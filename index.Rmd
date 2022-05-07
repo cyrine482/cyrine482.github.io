@@ -1,20 +1,14 @@
 ---
 title: "Hello!"
-color1: "#5A59A3"
-color2: "#C66060"
-angle: 130
-links:
-  - label: Twitter
-    url: "https://twitter.com/"
-  - label: Email
-    url: "mailto:cyrine.chenaoui@gmail.com"
 output:
   html_document:
     includes:
     in_header: gglanalytics.html
 ---
-<img src="includes/photo.jpg" style="width:30%">
-###Bio 
+<img src="includes/photo.jpg" style="width:10%">
+
+
+##Bio 
 
 Cyrine Chenaoui is an agronomic engineer and a fisheries manager  based in Tunis,Tunisia. 
 

@@ -16,7 +16,6 @@ navbar:
       href: cv.html
 output:
   html_document:
-    theme: journal
     highlight: textmate
     self_contained: TRUE
     includes:
