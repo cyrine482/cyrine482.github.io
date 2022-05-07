@@ -1,7 +1,4 @@
 ---
 title: "Curriculum Vitae"
-output:
-  html_document:
-    includes:
-    in_header: gglanalytics.html
+
 ---

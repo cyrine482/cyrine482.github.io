@@ -20,5 +20,4 @@ output:
     self_contained: TRUE
     includes:
     css: styles.css
-    in_header: gglanalytics.html
 ---

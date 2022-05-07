@@ -1,9 +1,5 @@
 ---
 title: "Hello!"
-output:
-  html_document:
-    includes:
-    in_header: gglanalytics.html
 ---
 <img src="includes/photo.jpg" style="width:10%">
 

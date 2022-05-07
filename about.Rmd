@@ -1,9 +1,5 @@
 ---
 title: "Contact"
-output:
-  html_document:
-    includes:
-    in_header: gglanalytics.html
 ---
 Email: <cyrine.chenaoui@gmail.com>
 
