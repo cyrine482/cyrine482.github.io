@@ -1,4 +1,4 @@
----
+
 name: "my-website"
 navbar:
   title: "Menu"
@@ -17,7 +17,7 @@ navbar:
 output:
   html_document:
     highlight: textmate
-    self_contained: TRUE
+    self_contained: false
+    keep_md: true
     includes:
     css: styles.css
----
