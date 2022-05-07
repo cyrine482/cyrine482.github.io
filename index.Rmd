@@ -1,8 +1,5 @@
 ---
 title: "Hello!"
-output:
-  html_document:
-    highlight: tango
 ---
 <img src="includes/photo.jpg" style="width:10%">
 
