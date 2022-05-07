@@ -1,24 +1,21 @@
 ---
 title: "Hello!"
-image: "herzl.jpg"
 color1: "#5A59A3"
 color2: "#C66060"
 angle: 130
 links:
-  - label: YouTube
-    url: "https://youtube.com/"
-  - label: Vimeo
-    url: "https://vimeo.com/"
   - label: Twitter
     url: "https://twitter.com/"
   - label: Email
-    url: "mailto:email@email.com"
+    url: "mailto:cyrine.chenaoui@gmail.com"
 output:
   postcards::onofre
 ---
- 
-György Herzl is a filmmaker and computational storyteller based in Leipzig,
-Germany. Their work has been featured at the Festival do Rio, Internationale
-Filmfestspiele Berlin, Kunsthalle Basel, and the New Museum of Contemporary Art
-in New York City. "ГУМ" is their latest project which examines the rise of
-consumerism in post-Soviet republics.
+
+##Bio 
+
+
+Cyrine Chenaoui is an agronomic engineer and a fisheries manager  based in Tunis,Tunisia. 
+
+
+Fueled by my passion for understanding the nuances of the interface of sustainability, food security, ecology and global health, I consider myself alife-long learner eager to both build on my academic foundations in agronomy and fisheries and stay in tune with the information processing techniques and modelling.

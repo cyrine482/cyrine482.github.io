@@ -2,7 +2,7 @@ name: "my-website"
 navbar:
   title: "Menu"
   type: inverse
-  self_contained: False
+ 
   right:
     - text: "Home"
       icon: fa-home
@@ -15,7 +15,9 @@ navbar:
       href: cv.html
 output:
   html_document:
+    theme: cosmo
     highlight: textmate
+    self_contained: TRUE
     include:
       image: "photo.jpg"
     css: styles.css
