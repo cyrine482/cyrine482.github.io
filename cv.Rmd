@@ -7,13 +7,13 @@ output:
 >  <i class="fa fa-graduation-cap"aria-hidden="true"></i> Education
 
 
->  <i class="fa-solid fa-briefcase"aria-hidden="true"></i> Experience 
+>  <i class="fa fa-briefcase" aria-hidden="true"></i> Experience 
 
 
->  <i class="fa-solid fa-certificate"></i> Certificates & Courses 
+>  <i class="fa fa-certificate" aria-hidden="true"></i> Certificates & Courses 
 
 
->  <i class="fa-solid fa-trophy-star"></i>  Achievements, Honours & Awards
+>  <i class="fa fa-trophy" aria-hidden="true"></i> Achievements, Honours & Awards
 
 
 

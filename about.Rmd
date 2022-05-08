@@ -1,14 +1,16 @@
 ---
 title: "Contact"
 ---
-Email: <cyrine.chenaoui@gmail.com>
+<i class="fa fa-envelope" aria-hidden="true"></i> <cyrine.chenaoui@gmail.com>
 
 
-Mobile: +216 21 827 647 
+<i class="fa fa-envelope" aria-hidden="true"></i> +216 21 827 647 
 
 
-Twitter : <https://twitter.com/CChenaoui>
+<i class="fa fa-twitter" aria-hidden="true"></i> [@cchenaoui](https://twitter.com/CChenaoui)
 
 
-Linkedin: <https://www.linkedin.com/in/cyrinechenaoui/>
+<i class="fa fa-linkedin" aria-hidden="true"></i> [Cyrine Chenaoui] (https://www.linkedin.com/in/cyrinechenaoui/)
+
+<i class="fa fa-github" aria-hidden="true"></i> [@cyrine482](https://github.com/cyrine482)
  
