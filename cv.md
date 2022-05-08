@@ -4,6 +4,14 @@ output:
   html_document:
     self_contained: false
 ---
-> Education 
+>  - text: "Education"
+     icon: fa-graduation-cap
+
+
+> Experience 
+
+
+> 
+
 
 

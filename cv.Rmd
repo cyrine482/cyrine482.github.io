@@ -4,6 +4,13 @@ output:
   html_document:
     self_contained: false
 ---
-> Education 
+> `r  icon::fa_graduation-cap()`
+
+
+> Experience 
+
+
+> 
+
 
 
