@@ -15,8 +15,6 @@ navbar:
       href: cv.html
 output:
   html_document:
-    highlight: textmate
-    self_contained: false
-    keep_md: true
+    theme: cosmo
     includes:
     css: styles.css

@@ -2,15 +2,21 @@
 title: "Curriculum Vitae"
 output:
   html_document:
-    self_contained: false
+    code_folding: hide
 ---
-> `r  icon::fa_graduation-cap()`
+>  <i class="fa fa-graduation-cap"aria-hidden="true"></i> Education
 
 
-> Experience 
+>  <i class="fa-solid fa-briefcase"aria-hidden="true"></i> Experience 
 
 
-> 
+>  <i class="fa-solid fa-certificate"></i> Certificates & Courses 
+
+
+>  <i class="fa-solid fa-trophy-star"></i>  Achievements, Honours & Awards
+
+
+
 
 
 

@@ -1,7 +1,7 @@
 ---
 title: "Contact"
 ---
-Email: <cyrine.chenaoui@gmail.com>
+`r  icons::fa("rocket")`: <cyrine.chenaoui@gmail.com>
 
 
 Mobile: +216 21 827 647 
