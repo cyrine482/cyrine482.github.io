@@ -1,5 +1,5 @@
 ---
-title: \center --Hello!-- \center
+title: \center Hello! \center
 ---
 
 <img src="includes/photo.jpg" style="width:10%">
