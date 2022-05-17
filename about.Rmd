@@ -13,4 +13,7 @@ title: "Contact"
 <i class="fa fa-linkedin" aria-hidden="true"></i> [Cyrine Chenaoui](https://www.linkedin.com/in/cyrinechenaoui/)
 
 <i class="fa fa-github" aria-hidden="true"></i> [@cyrine482](https://github.com/cyrine482)
+
+<i class="fa fa-search-plus" aria-hidden="true"></i>[Researchgate](https://www.researchgate.net/profile/Cyrine_Chenaoui)
+ 
  
