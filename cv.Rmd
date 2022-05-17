@@ -1,20 +1,17 @@
 ---
 title: "Curriculum Vitae"
-output:
-  html_document:
-    code_folding: hide
 ---
->  <i class="fa fa-graduation-cap"aria-hidden="true"></i> Education
+<i class="fa fa-folder" aria-hidden="true"></i>
+[Link to my CV](https://drive.google.com/file/d/1NekR0G0i-mDV3giOBaZl3BH9dVRwaPXu/view?usp=sharing)
 
 
->  <i class="fa fa-briefcase" aria-hidden="true"></i> Experience 
-
-
->  <i class="fa fa-certificate" aria-hidden="true"></i> Certificates & Courses 
-
-
->  <i class="fa fa-trophy" aria-hidden="true"></i> Achievements, Honours & Awards
-
+        
+   
+        
+ 
+        
+        
+ 
 
 
 
