@@ -2,7 +2,7 @@
 title: "Curriculum Vitae"
 ---
 <i class="fa fa-folder" aria-hidden="true"></i>
-<button type="button" class="btn btn-dark">[Link to my CV](https://drive.google.com/file/d/1NekR0G0i-mDV3giOBaZl3BH9dVRwaPXu/view?usp=sharing)</button>
+<button type="button" class="btn btn-readable">[Link to my CV](https://drive.google.com/file/d/1NekR0G0i-mDV3giOBaZl3BH9dVRwaPXu/view?usp=sharing)</button>
 
 
 

@@ -15,4 +15,4 @@ navbar:
       href: cv.html
 output:
   html_document:
-    theme: darkly
+    theme: readable
