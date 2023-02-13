@@ -1,6 +1,51 @@
 ---
 title: "Curriculum Vitae"
 ---
+
+
+>  <i class="fa fa-graduation-cap"aria-hidden="true"></i> Education
+
+
+**10/2019 - 10/2020**  Master of Science in Information Processing and Complexity of Living Systems 
+
+
+  *National Engineering School of Tunis, Tunisia*
+
+
+**10/2017 - 07/2019**  Master of Science in Sustainable Fisheries Management
+        
+        
+  *University of Alicante, Spain*
+
+
+**09/2015 - 07/2018**  Engineering degree in Fisheries science and Environment 
+        
+        
+  *National Agronomic Institute of Tunisia*
+
+
+>  <i class="fa fa-briefcase" aria-hidden="true"></i> Experience 
+
+
+**February 2021 - June 2022** R\&D Engineer
+
+
+*Pasteur Institute of Tunis, Tunisia*
+
+
+**October 2018 - June 2019** Intern Consultant
+        
+
+*Food \& Agriculture Organization*
+
+
+>  <i class="fa fa-trophy" aria-hidden="true"></i> Achievements, Honours & Awards
+      
+**2018-2019**  CIHEAM Scholarship
+
+
+**2017-2018** Erasmus+ Scholarship
+        
 <i class="fa fa-folder" aria-hidden="true"></i>
 <button type="button" class="btn btn-readable">[Link to my CV](https://drive.google.com/file/d/1NekR0G0i-mDV3giOBaZl3BH9dVRwaPXu/view?usp=sharing)</button>
 

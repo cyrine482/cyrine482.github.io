@@ -1,5 +1,5 @@
 ---
-title: \center Hello! \center
+title: \center Hello! Welcome to my world \center
 ---
 <img 
     style="display: block; 
@@ -10,49 +10,10 @@ title: \center Hello! \center
     alt="Our logo">
 </img>
 <h1 style="text-align: center;">Bio</h1>
-I am an agronomic engineer fueled by my passion for understanding the nuances of the interface of sustainability, food security, ecology and global health, I consider myself a life-long learner eager to both build on my academic foundations in agronomy and fisheries and stay in tune with the information processing techniques and modelling.
+I am an agronomic engineer specialized in fisheries management and fueled by my passion for understanding the nuances of the interface of sustainability, food security, ecology and global health. I consider myself a life-long learner eager to both build on my academic foundations in agronomy and fisheries and stay in tune with the information processing techniques and modelling.
+
+Currently I'm fulfilling a PhD in complex systems at the french Research & development Institute (IRD) within the *"Unit of  Mathematical  & Computational  Modeling  of Complex Systems  (UMMISCO)"*, and the Pasteur Institute of Tunis within the *"Bio Informatics, Bio Mathematics, Bio-Statistics Laboratory"*.
 
 
->  <i class="fa fa-graduation-cap"aria-hidden="true"></i> Education
 
 
-**10/2019 - 10/2020**  Master of Science in Information Processing and Complexity of Living Systems 
-
-
-  *National Engineering School of Tunis, Tunisia*
-
-
-**10/2017 - 07/2019**  Master of Science in Sustainable Fisheries Management
-        
-        
-  *University of Alicante, Spain*
-
-
-**09/2015 - 07/2018**  Engineering degree in Fisheries science and Environment 
-        
-        
-  *National Agronomic Institute of Tunisia*
-
-
->  <i class="fa fa-briefcase" aria-hidden="true"></i> Experience 
-
-
-**February 2021 - June 2022** R\&D Engineer
-
-
-*Pasteur Institute of Tunis, Tunisia*
-
-
-**October 2018 - June 2019** Intern Consultant
-        
-
-*Food \& Agriculture Organization*
-
-
->  <i class="fa fa-trophy" aria-hidden="true"></i> Achievements, Honours & Awards
-      
-**2018-2019**  CIHEAM Scholarship
-
-
-**2017-2018** Erasmus+ Scholarship
-        
