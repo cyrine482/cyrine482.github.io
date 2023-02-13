@@ -14,7 +14,7 @@ navbar:
       icon: fa-solid fa-file
       href: cv.html
     - text: "Publications & Projects"
-      icon: fa-solid  fa-file-text
+      icon: fa-solid fa-file-text
       href: pub.html
 output:
   html_document:
