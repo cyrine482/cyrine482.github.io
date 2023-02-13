@@ -13,9 +13,7 @@ navbar:
     - text: "Curriculum Vitae"
       icon: fa-solid fa-file
       href: cv.html
-    - text: "Publications and Projects"
-      icon: fa-solid fa-file-text
-      href: pub.html
+ 
 output:
   html_document:
     theme: readable
