@@ -1,5 +1,11 @@
 ---
 title: "Curriculum Vitae"
+output: 
+html_document:
+    css: "_site/site_libs/bootstrap-3.3.5/css/readable.min.css"
+    includes:
+      before_body: "_site/site_libs/bootstrap-3.3.5/js/bootstrap.min.js"
+    self_contained: false
 ---
 
 
