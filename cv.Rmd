@@ -33,7 +33,7 @@ html_document:
 >  <i class="fa fa-briefcase" aria-hidden="true"></i> Experience 
 
 
-**February 2021 - June 2022** R\&D Engineer
+**February - October 2021** R\&D Engineer
 
 
 *Pasteur Institute of Tunis, Tunisia*
