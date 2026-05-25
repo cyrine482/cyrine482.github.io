@@ -1,17 +1,64 @@
 ---
 title: "Publications and Projects"
-output: 
-html_document:
-    css: "_site/site_libs/bootstrap-3.3.5/css/readable.min.css"
-    includes:
-      before_body: "_site/site_libs/bootstrap-3.3.5/js/bootstrap.min.js"
+output:
+  html_document:
     self_contained: false
+    css: "_site/site_libs/bootstrap-3.3.5/css/readable.min.css"
 ---
 
+<div style="text-align:center; margin-top:30px; margin-bottom:30px;">
 
-<i class="fa fa-cogs" aria-hidden="true"></i>
+<i class="fa fa-cogs fa-3x"></i>
 
-<h1 style="text-align: center;"> Under construction </h1>
-  
+# Publications and Projects
+
+*Page currently under development*
+
+</div>
+
+---
+##Funding 
 
 
+## Selected Publications
+
+### 2025
+
+**Chenaoui, C.**, Louhichi, A., Darghouth, M.A., Marilleau, N., Ben Miled, S.B. (2025).  
+*Exploring temperature effects on tick population dynamics: What are agent-based models saying?*  
+_PLOS Complex Systems_, 2(9), e0000065.  
+https://doi.org/10.1371/journal.pcsy.0000062
+---
+
+### 2024
+
+**Chenaoui, C.**, Marilleau, N., Ben Miled, S. (2024).  
+*Towards a generic agent-based vector-host model: effects of carrying capacity and host mobility.*  
+_Applied Network Science_, 9, 33.  
+https://doi.org/10.1007/s41109-024-00629-z
+
+---
+
+### 2021
+
+**Chenaoui, C.** et al. (2021).  
+*A climate-based model for tick life cycle: an infinite system of differential equation approach.*  
+_Preprint._
+
+---
+
+## Academic Projects and Theses
+
+### 2020
+
+**Chenaoui, C.** (2020).  
+*Mathematical modelling of the tick life cycle using DEB models.*  
+Master Thesis, École Nationale d'Ingénieurs de Tunis, Université Tunis-El Manar, Tunisia (*in French*).
+
+<br>
+
+### 2019
+
+**Chenaoui, C.** (2019).  
+*Pilot study on recreational sea fishing in Andalusia using a mobile application.*  
+Master Thesis, Universidad de Alicante, Spain (*in Spanish*).

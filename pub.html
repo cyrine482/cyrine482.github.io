@@ -11,9 +11,9 @@
 
 
 
-<title>pub.knit</title>
+<title>Publications and Projects</title>
 
-<script src="site_libs/header-attrs-2.13/header-attrs.js"></script>
+<script src="site_libs/header-attrs-2.29/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/readable.min.css" rel="stylesheet" />
@@ -32,8 +32,8 @@
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
-<link href="site_libs/font-awesome-5.1.0/css/all.css" rel="stylesheet" />
-<link href="site_libs/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet" />
+<link href="site_libs/font-awesome-6.5.2/css/all.min.css" rel="stylesheet" />
+<link href="site_libs/font-awesome-6.5.2/css/v4-shims.min.css" rel="stylesheet" />
 
 <style type="text/css">
   code{white-space: pre-wrap;}
@@ -60,6 +60,7 @@ if (window.hljs) {
 
 
 
+<link rel="stylesheet" href="_site/site_libs/bootstrap-3.3.5/css/readable.min.css" type="text/css" />
 
 
 
@@ -143,11 +144,15 @@ $(document).ready(function () {
     href = "index.html";
   var menuAnchor = $('a[href="' + href + '"]');
 
-  // mark it active
-  menuAnchor.tab('show');
-
-  // if it's got a parent navbar menu mark it active as well
-  menuAnchor.closest('li.dropdown').addClass('active');
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
 
   // Navbar adjustments
   var navHeight = $(".navbar").first().height() + 15;
@@ -176,8 +181,8 @@ $(document).ready(function () {
   border-radius: 4px;
 }
 
-.tabset-dropdown > .nav-tabs > li.active:before {
-  content: "";
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
   font-family: 'Glyphicons Halflings';
   display: inline-block;
   padding: 10px;
@@ -185,16 +190,9 @@ $(document).ready(function () {
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
-  content: "&#xe258;";
-  border: none;
-}
-
-.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
-  content: "";
+  content: "\e258";
   font-family: 'Glyphicons Halflings';
-  display: inline-block;
-  padding: 10px;
-  border-right: 1px solid #ddd;
+  border: none;
 }
 
 .tabset-dropdown > .nav-tabs > li.active {
@@ -273,9 +271,9 @@ $(document).ready(function () {
 </li>
 <li>
   <a href="pub.html">
-    <span class="fa fa-solid  fa-file-text"></span>
+    <span class="fa fa-solid fa-file_text"></span>
      
-    Publications &amp; Projects
+    Publications and Projects
   </a>
 </li>
       </ul>
@@ -287,14 +285,83 @@ $(document).ready(function () {
 
 
 
+<h1 class="title toc-ignore">Publications and Projects</h1>
 
 </div>
 
 
-<p><i class="fa fa-cogs" aria-hidden="true"></i></p>
-<h1 style="text-align: center;">
-Under construction
-</h1>
+<div style="text-align:center; margin-top:30px; margin-bottom:30px;">
+<p><i class="fa fa-cogs fa-3x"></i></p>
+<div id="publications-and-projects" class="section level1">
+<h1>Publications and Projects</h1>
+<p><em>Page currently under development</em></p>
+</div>
+</div>
+<hr />
+<div id="selected-publications" class="section level2">
+<h2>Selected Publications</h2>
+<div id="section" class="section level3">
+<h3>2025</h3>
+<p><strong>Chenaoui, C.</strong>, Louhichi, A., Darghouth, M.A.,
+Marilleau, N., Ben Miled, S.B. (2025).<br />
+<em>Exploring temperature effects on tick population dynamics: What are
+agent-based models saying?</em><br />
+<em>PLOS Complex Systems</em>, 2(9), e0000065.<br />
+<a href="https://doi.org/10.1371/journal.pcsy.0000062"
+class="uri">https://doi.org/10.1371/journal.pcsy.0000062</a></p>
+<p><br></p>
+<p><strong>Chenaoui, C.</strong>, et al. (2025).<br />
+<em>Title of the second paper.</em><br />
+<em>Journal Name</em>, Volume(Issue), pages.<br />
+<a href="https://doi.org/xxxx" class="uri">https://doi.org/xxxx</a></p>
+<p><br></p>
+<p><strong>Chenaoui, C.</strong>,Louhichi A, Darghouth MA, Marilleau N,
+Ben Miled SB (2025). <em>Exploring temperature effects on tick
+population dynamics: What are agent-based models saying?.</em> <em>PLoS
+Complex Systems</em>, 2(9).<br />
+<a href="https://doi.org/10.1371/journal.pcsy.0000062"
+class="uri">https://doi.org/10.1371/journal.pcsy.0000062</a></p>
+<hr />
+</div>
+<div id="section-1" class="section level3">
+<h3>2024</h3>
+<p><strong>Chenaoui, C.</strong>, Marilleau, N., Ben Miled, S.
+(2024).<br />
+<em>Towards a generic agent-based vector-host model: effects of carrying
+capacity and host mobility.</em><br />
+<em>Applied Network Science</em>, 9, 33.<br />
+<a href="https://doi.org/10.1007/s41109-024-00629-z"
+class="uri">https://doi.org/10.1007/s41109-024-00629-z</a></p>
+<hr />
+</div>
+<div id="section-2" class="section level3">
+<h3>2021</h3>
+<p><strong>Chenaoui, C.</strong> et al. (2021).<br />
+<em>A climate-based model for tick life cycle: an infinite system of
+differential equation approach.</em><br />
+<em>Preprint.</em></p>
+<hr />
+</div>
+</div>
+<div id="academic-projects-and-theses" class="section level2">
+<h2>Academic Projects and Theses</h2>
+<div id="section-3" class="section level3">
+<h3>2020</h3>
+<p><strong>Chenaoui, C.</strong> (2020).<br />
+<em>Mathematical modelling of the tick life cycle using DEB
+models.</em><br />
+Master Thesis, École Nationale d’Ingénieurs de Tunis, Université
+Tunis-El Manar, Tunisia (<em>in French</em>).</p>
+<p><br></p>
+</div>
+<div id="section-4" class="section level3">
+<h3>2019</h3>
+<p><strong>Chenaoui, C.</strong> (2019).<br />
+<em>Pilot study on recreational sea fishing in Andalusia using a mobile
+application.</em><br />
+Master Thesis, Universidad de Alicante, Spain (<em>in Spanish</em>).</p>
+</div>
+</div>
 
 
 

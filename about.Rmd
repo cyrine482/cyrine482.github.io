@@ -9,13 +9,6 @@ html_document:
 ---
 <i class="fa fa-envelope" aria-hidden="true"></i> <cyrine.chenaoui@gmail.com>
 
-
-<i class="fa fa-envelope" aria-hidden="true"></i> +216 21 827 647 / +33 6 28 02 35 73
-
-
-<i class="fa fa-twitter" aria-hidden="true"></i> [@cchenaoui](https://twitter.com/CChenaoui)
-
-
 <i class="fa fa-linkedin" aria-hidden="true"></i> [Cyrine Chenaoui](https://www.linkedin.com/in/cyrinechenaoui/)
 
 <i class="fa fa-github" aria-hidden="true"></i> [@cyrine482](https://github.com/cyrine482)

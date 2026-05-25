@@ -12,19 +12,19 @@ html_document:
 >  <i class="fa fa-graduation-cap"aria-hidden="true"></i> Education
 
 
-**10/2019 - 10/2020**  Master of Science in Information Processing and Complexity of Living Systems 
+**2020**  Master of Science in Information Processing and Complexity of Living Systems 
 
 
   *National Engineering School of Tunis, Tunisia*
 
 
-**10/2017 - 07/2019**  Master of Science in Sustainable Fisheries Management
+**2019**  Master of Science in Sustainable Fisheries Management
         
         
   *University of Alicante, Spain*
 
 
-**09/2015 - 07/2018**  Engineering degree in Fisheries science and Environment 
+**2018**  Engineering degree in Fisheries science and Environment 
         
         
   *National Agronomic Institute of Tunisia*
@@ -49,8 +49,6 @@ html_document:
       
 **2018-2019**  CIHEAM Scholarship
 
-
-**2017-2018** Erasmus+ Scholarship
         
 <i class="fa fa-folder" aria-hidden="true"></i>
 <button type="button" class="btn btn-readable">[Link to my CV](https://drive.google.com/file/d/1NekR0G0i-mDV3giOBaZl3BH9dVRwaPXu/view?usp=sharing)</button>
