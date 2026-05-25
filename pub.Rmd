@@ -49,16 +49,24 @@ _Preprint._
 
 ## Academic Projects and Theses
 
+### 2025
+
+**Chenaoui, C.** (2025)
+*Modélisation multi-agents du système "vecteur-hôte-pathogène": Exemple des tiques*
+PhD, Sorbonne Université (*in French*)
+
+<br>
+
 ### 2020
 
-**Chenaoui, C.** (2020).  
-*Mathematical modelling of the tick life cycle using DEB models.*  
+**Chenaoui, C.** (2020) 
+*Mathematical modelling of the tick life cycle using DEB models*  
 Master Thesis, École Nationale d'Ingénieurs de Tunis, Université Tunis-El Manar, Tunisia (*in French*).
 
 <br>
 
 ### 2019
 
-**Chenaoui, C.** (2019).  
+**Chenaoui, C.** (2019)
 *Pilot study on recreational sea fishing in Andalusia using a mobile application.*  
 Master Thesis, Universidad de Alicante, Spain (*in Spanish*).

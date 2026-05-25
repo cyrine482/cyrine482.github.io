@@ -12,6 +12,12 @@ html_document:
 >  <i class="fa fa-graduation-cap"aria-hidden="true"></i> Education
 
 
+**2025** PhD in Complex Systems Modeling
+
+
+  *Sorbonne Université, France & National Engineering School of Tunis, Tunisia*
+  
+
 **2020**  Master of Science in Information Processing and Complexity of Living Systems 
 
 
