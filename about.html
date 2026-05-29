@@ -11,7 +11,7 @@
 
 
 
-<title>Contact</title>
+<title>Hello! Welcome to my world</title>
 
 <script src="site_libs/header-attrs-2.29/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
@@ -30,8 +30,6 @@
        code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
        pre:not([class]) { background-color: white }</style>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
-<link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
-<script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
 <link href="site_libs/font-awesome-6.5.2/css/all.min.css" rel="stylesheet" />
 <link href="site_libs/font-awesome-6.5.2/css/v4-shims.min.css" rel="stylesheet" />
 
@@ -44,16 +42,6 @@
   ul.task-list{list-style: none;}
     </style>
 
-<style type="text/css">code{white-space: pre;}</style>
-<script type="text/javascript">
-if (window.hljs) {
-  hljs.configure({languages: []});
-  hljs.initHighlightingOnLoad();
-  if (document.readyState && document.readyState === "complete") {
-    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
-  }
-}
-</script>
 
 
 
@@ -248,17 +236,10 @@ $(document).ready(function () {
       </ul>
       <ul class="nav navbar-nav navbar-right">
         <li>
-  <a href="index.html">
+  <a href="about.html">
     <span class="fa fa-home"></span>
      
     Home
-  </a>
-</li>
-<li>
-  <a href="about.html">
-    <span class="fa fa-info"></span>
-     
-    Contact me
   </a>
 </li>
 <li>
@@ -270,9 +251,9 @@ $(document).ready(function () {
 </li>
 <li>
   <a href="pub.html">
-    <span class="fa fa-solid fa-file_text"></span>
+    <span class="fa fa-solid fa-file-text"></span>
      
-    Publications and Projects
+    Publications
   </a>
 </li>
       </ul>
@@ -284,22 +265,180 @@ $(document).ready(function () {
 
 
 
-<h1 class="title toc-ignore">Contact</h1>
+<h1 class="title toc-ignore">Hello! Welcome to my world</h1>
 
 </div>
 
 
-<p><i class="fa fa-envelope" aria-hidden="true"></i> <a
-href="mailto:cyrine.chenaoui@gmail.com"
-class="email">cyrine.chenaoui@gmail.com</a></p>
-<p><i class="fa fa-linkedin" aria-hidden="true"></i> <a
-href="https://www.linkedin.com/in/cyrinechenaoui/">Cyrine
-Chenaoui</a></p>
-<p><i class="fa fa-github" aria-hidden="true"></i> <a
-href="https://github.com/cyrine482"><span
-class="citation">@cyrine482</span></a></p>
-<p><i class="fa fa-search-plus" aria-hidden="true"></i><a
-href="https://www.researchgate.net/profile/Cyrine_Chenaoui">Researchgate</a></p>
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&display=swap');
+
+/* ===== Base ===== */
+body {
+  font-family: 'Inter', sans-serif;
+  font-size: 16px;
+  line-height: 1.75;
+  color: #1f1f1f;
+  background-color: #ffffff;
+}
+
+/* ===== Layout ===== */
+.bio, .contact-wrapper {
+  max-width: 820px;
+  margin: 0 auto;
+  padding: 20px 28px;
+}
+
+/* ===== Profile image ===== */
+.profile-img {
+  display: block;
+  margin: 40px auto 15px auto;
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+  border-radius: 50%;
+  box-shadow: 0 8px 24px rgba(0,0,0,0.12);
+  transition: transform 0.3s ease;
+}
+
+.profile-img:hover {
+  transform: scale(1.03);
+}
+
+/* ===== Titles ===== */
+h1 {
+  text-align: center;
+  font-weight: 600;
+  margin-top: 10px;
+}
+
+h2 {
+  text-align: center;
+  font-weight: 500;
+  color: #444;
+}
+
+/* ===== Bio ===== */
+.bio p {
+  margin-bottom: 16px;
+}
+
+/* ===== Divider ===== */
+hr {
+  border: none;
+  height: 1px;
+  background: linear-gradient(to right, transparent, #e6e6e6, transparent);
+  margin: 35px auto;
+  width: 60%;
+}
+
+/* ===== Collapsible contact menu ===== */
+details {
+  max-width: 820px;
+  margin: 0 auto 60px auto;
+  padding: 10px 20px;
+  text-align: center;
+  cursor: pointer;
+}
+
+summary {
+  font-weight: 600;
+  font-size: 18px;
+  list-style: none;
+  outline: none;
+}
+
+summary::-webkit-details-marker {
+  display: none;
+}
+
+.contact-item {
+  margin: 12px 0;
+  font-size: 15px;
+}
+
+.contact-item i {
+  width: 20px;
+  color: #555;
+  margin-right: 8px;
+}
+
+.contact-item a {
+  text-decoration: none;
+  color: #1f1f1f;
+  transition: color 0.25s ease;
+}
+
+.contact-item a:hover {
+  color: #0077b5;
+}
+
+/* subtle animation when opening */
+details[open] {
+  animation: fadeIn 0.25s ease-in-out;
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(-4px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+</style>
+<p><img src="preview.png" class="profile-img"></p>
+<h1>
+Hello! Welcome to my world
+</h1>
+<h2>
+Complex systems • Epidemiology • Climate &amp; Health
+</h2>
+<hr>
+<div class="bio">
+<p>
+I am a researcher driven by curiosity about how living systems evolve,
+interact, and sometimes fail under environmental and social pressures.
+My work sits at the intersection of mathematics, epidemiology, ecology,
+and climate and health, where I use modeling and computational
+approaches to explore complex questions that rarely fit neatly into a
+single discipline.
+</p>
+<p>
+I am particularly fascinated by systems in motion: the spread of
+infectious diseases, the dynamics of vector populations, the influence
+of climate on health, and the hidden patterns that emerge from
+biological and ecological interactions. Much of my work relies on
+theoretical and agent-based models, not only to predict outcomes, but
+also to better understand the mechanisms and underlying processes that
+generate them.
+</p>
+<p>
+Currently, I work on climate and health research initiatives within the
+Pasteur Network, contributing to interdisciplinary projects that connect
+public health, environmental change, and scientific collaboration across
+countries and disciplines.
+</p>
+<p>
+Beyond research, I am deeply interested in science diplomacy, scientific
+communication, and the role of interdisciplinary thinking in addressing
+global challenges. I enjoy translating complex ideas into clear
+narratives, learning across fields, and approaching science as both an
+analytical and creative process.
+</p>
+<p>
+At the core of everything I do is a simple motivation: understanding
+complexity in order to make systems—whether ecological, scientific, or
+human—more resilient and more connected.
+</p>
+</div>
+<hr>
+<details>
+<summary>
+<b>Contact</b>
+</summary>
+<p>📧 <a href="mailto:cyrine.chenaoui@gmail.com">Email</a><br> 💼
+<a href="https://www.linkedin.com/in/cyrinechenaoui/">LinkedIn</a><br>
+💻 <a href="https://github.com/cyrine482">GitHub</a><br> 🔬
+<a href="https://www.researchgate.net/profile/Cyrine_Chenaoui">ResearchGate</a></p>
+</details>
+<hr />
 
 
 

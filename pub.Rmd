@@ -17,7 +17,6 @@ output:
 </div>
 
 ---
-##Funding 
 
 
 ## Selected Publications
@@ -43,7 +42,7 @@ https://doi.org/10.1007/s41109-024-00629-z
 
 **Chenaoui, C.** et al. (2021).  
 *A climate-based model for tick life cycle: an infinite system of differential equation approach.*  
-_Preprint._
+_Preprint_
 
 ---
 
@@ -53,7 +52,7 @@ _Preprint._
 
 **Chenaoui, C.** (2025)
 *Modélisation multi-agents du système "vecteur-hôte-pathogène": Exemple des tiques*
-PhD, Sorbonne University (*in French*)
+PhD, Sorbonne Université (*in French*)
 
 <br>
 
